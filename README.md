@@ -58,6 +58,17 @@ Selesai Program pada daftar_nilai
 
 From digunakan untuk memanggil package sementara import untuk tujuan yang kita pilih yaitu modul daftar_nilai
 
+![Gambar](gambar/uas16.png)
+
+Disini kita buat inputan karena tadi kita sudah membuat kata - kata outputnya kali ini kita cukup membuat inputan data mahasiswanya saja
+
+# 2. View_Nilai
+
+
+![Gambar](gambar/uas5.png)
+
+From digunakan untuk memanggil package sementara import untuk tujuan yang kita pilih yaitu modul daftar_nilai
+
 ![Gambar](gambar/uas6.png)
 
 Pada gambar diatas adalah Codingan untuk Menampilkan Data yang telah kita buat 
@@ -66,12 +77,53 @@ Pada gambar diatas adalah Codingan untuk Menampilkan Data yang telah kita buat
 
 Pada gambar diatas adalah Codingan untuk Mencari Data
 
+
+Selesai Program pada Package View ini 
+
+
+# Kita akan membuat Modul Main.py
+
 ![Gambar](gambar/uas8.png)
 
-# 2. View_Nilai
+Penjelasan:
 
+- Sama seperti sebelumnya hanya saja disini sedikit berbeda
+- From disini kita tulis package.modulnya lalu import fungsi(def) tadi
+- Karena dibagian main ini kita akan menggunakan atau membuat syntax pilihan menu
 
-![Gambar](gambar/uas5.png)
+![Gambar](gambar/uas9.png)
 
-Pada view nilai ini kita juga sama From dan Import nya, kegunaannya juga sama.
+Pada gambar diatas berikut Syntax/Codingan untuk pilihan menu .
+
+Setelah selesai semua sudah kita coding, Next kita jalankan Perintah RUN !
+
+# ================================================================================
+
+# Program yang kita RUN
+
+![Gambar](gambar/uas10.png)
+
+Gambar diatas adalah contoh menu dan kita akan mencoba dari awal yakni pilihan No.1 (Tambah Data Mahasiswa)
+
+![Gambar](gambar/uas11.png)
+
+Gambar diatas adalah Kita memilih menu No. 2 ( Melihat Hasil Tampilan dari Data yang kita tambah )
+
+![Gambar](gambar/uas12.png)
+
+Gambar diatas adalah kita memilih Menu No. 3 ( Menghapus Data ) , Sebelum menghapus pastikan kalian mencoba dengan Minimal dengan 2 Data agar 1 nya bisa kita hapus
+
+![Gambar](gambar/uas13.png)
+
+Gambar diatas adalah kita memilih Menu no.4 ( Mengubah Data ) , Gunanya agar jika kita ingin menghubah Data ,Contoh Nama/NIM/Nilai .
+
+![Gambar](gambar/uas14.png)
+
+Gambar diatas adalah kita memilih Menu no.5 ( Mencari Data ), jika kita sudah menghubah/meghapus/menambah kita bisa mencari Data tersebut.
+
+![Gambar](gambar/uas15.png)
+
+Gambar diatas adalah gunanya apabila kita telah selesai Mengupdate data-data , kita bisa keluar dari program tersebut.
+
+Sekitan yang bisa saya sampaikan , apabila ada kesalahan Mohon Maaf dan terima kasih.
 
